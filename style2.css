@@ -39,3 +39,10 @@ html {
   -o-background-size: cover;
   background-size: cover;
 }
+
+.link {
+            margin-top: 15px;
+            text-align: center;
+            font-size: 15px;
+            color: #000000;
+        }
